@@ -1,4 +1,4 @@
-## Hello World
+##👋 Hello World
 Esse projeto foi criado com base na [API Marvel](https://developer.marvel.com/). Para isso, foi desenvolvido utilizando: 
 </br>
 ✔ ReactJS</br> 
@@ -11,7 +11,7 @@ Esse projeto foi criado com base na [API Marvel](https://developer.marvel.com/).
 
 Vale lembrar que será necessário fazer login no site https://developer.marvel.com para obter as chaves de API. 
 
-## Necessary changes
+## 🚧Necessary changes
 
 Para conseguir rodar o projeto em ambiente de desenvolvimento, crie na raiz do projeto o arquivo:
 
@@ -27,7 +27,7 @@ E acrescente as seguintes variáveis de ambiente:
 ✔ MARVEL_PUBLIC_KEY</br> 
 ✔ MARVEL_PRIVATE_KEY</br>
 
-## Getting Started
+## 🚀Getting Started
 
 Primeiro, rode esses comandos no seu terminal para instalar as dependências do projeto:
 
@@ -50,5 +50,5 @@ Logo, será possível visualizar a seguinte página:
 
 ![Screenshots](./public/screenshot/MarvelLanding.jpg)
 
-## Navegation 
+## 🗺Navegation 
 
